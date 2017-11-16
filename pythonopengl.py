@@ -1,6 +1,9 @@
 import pyglet
 from pyglet.gl import *
- 
+
+__author__ = 'Bhupendra Aole'
+__version__ = '0.1.0'
+
 win = pyglet.window.Window()
  
 @win.event

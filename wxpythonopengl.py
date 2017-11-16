@@ -12,6 +12,9 @@ from OpenGL.GL import shaders
 
 from readobj import Obj3D
 
+__author__ = 'Bhupendra Aole'
+__version__ = '0.1.0'
+
 vertexShader = """
     #version 120
     void main() {

@@ -7,6 +7,9 @@ from sklearn.metrics import accuracy_score
 
 from sklearn.neighbors import KNeighborsClassifier
 
+__author__ = 'Bhupendra Aole'
+__version__ = '0.1.0'
+
 iris = datasets.load_iris()
 
 # f(x) = y
